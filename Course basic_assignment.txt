@@ -1,0 +1,17 @@
+1.What is HTML?
+
+Sol: HTML stands for HyperText Markup Language , is a standard markup language used to create and design documents on the World Wide Web. It forms the backbone of web pages, allowing content creators to structure and present information on the internet.In simpler terms, HTML is a set of codes or tags that are used to define the various elements on a web page, such as headings, paragraphs, images, links, and more. These tags provide a way to structure the content and tell web browsers how to display it. 
+
+2. What is CSS?
+
+Sol: CSS (Cascading Style Sheets) is a styling language used in conjunction with HTML to control the presentation and layout of web pages. While HTML defines the structure and content of a page, CSS focuses on how that content should look and be visually presented.In simpler terms, CSS is responsible for styling and formatting elements on a webpage. It allows web designers and developers to specify things like colors, fonts, spacing, positioning, and more.
+
+3.Why did Javascript come into picture?
+
+Sol: The need for dynamic and interactive behavior on the web leads to the creation of javascript. When the World Wide Web first started gaining popularity in the early 1990s, it primarily consisted of static HTML documents that displayed text and images. However, there was a growing demand for more interactive and dynamic web pages that could respond to user actions without requiring a page reload.
+
+4.History of Javascript and Ecmascript.Explain in your own words
+
+Sol: JavaScript was made by a person named Brendan Eich while working for Netscape in 1995. They originally called it "Mocha" and later "LiveScript" before settling on the name "JavaScript."Back in the late 1990s, web browsers like Netscape Navigator and Microsoft Internet Explorer were competing against each other. JavaScript became popular because it allowed websites to do cool and interactive things.To make sure JavaScript worked the same way in different places, Netscape asked a group called ECMA International to set some rules. In 1997, they came up with the first set of rules called ECMAScript, sort of like a playbook for JavaScript.JavaScript became essential for making websites more dynamic and fun. As time went on, ECMAScript got updated to add new features and make JavaScript even better.
+
+ECMAScript started as a set of rules for JavaScript in 1997. It was meant to make sure that JavaScript worked consistently across different places and browsers.Every few years, new versions of ECMAScript were released. Each new version brought in cool new features and improvements to make JavaScript more powerful and easier to use. In 2015, ECMAScript got a big update called ES6. It added things like arrow functions and classes, making JavaScript more modern and efficient. Since then, ECMAScript has been updated every year with more goodiesWhen new ECMAScript features are introduced, it takes time for web browsers to understand and use them. Tools like Babel help developers write code using the latest stuff while still making sure it works on all kinds of browsers.
